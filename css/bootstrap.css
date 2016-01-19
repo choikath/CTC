@@ -900,8 +900,9 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 14px;
+    font-weight: 300;
   line-height: 1.42857143;
   color: #993366;
   background-color: #fff;
@@ -1150,7 +1151,7 @@ mark,
   text-transform: capitalize;
 }
 .text-muted {
-  color: #777;
+  color: #fff;
 }
 .text-primary {
   color: #66334C;
